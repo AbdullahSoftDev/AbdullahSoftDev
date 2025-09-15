@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">Aspiring Software Developer | Computer Science Student</h3>
 
-<img align="right"alt="coding"width="400"src="https://github.com/AbdullahSoftDev/AbdullahSoftDev/blob/ee06f56486a8a2dc60cdae9d1d10b86b9414173b/images/1_gReLR6hZjwyBxHmfLN1AVw.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsoftdev&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsoftdev" /> </p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AbdullahSoftDev/AbdullahSoftDev/main/images/1_gReLR6hZjwyBxHmfLN1AVw.gif">
 
 - 🌱 I’m currently learning **Data Science**
 
