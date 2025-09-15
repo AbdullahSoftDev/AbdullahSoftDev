@@ -1,3 +1,4 @@
+![logo](https://github.com/AbdullahSoftDev/AbdullahSoftDev/blob/main/images/freepik-gaming-linkedin-profile-cover-4099621-20250915055838e1Ph.png)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">Aspiring Software Developer | Computer Science Student</h3>
 
