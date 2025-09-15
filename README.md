@@ -12,6 +12,8 @@
 - 💬 Ask me about **C++, Python, PhpMyAdmin, SQL, WordPress, Php, Word, PowerPoint, Excel**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/abdullahsoftdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahsoftdev" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
