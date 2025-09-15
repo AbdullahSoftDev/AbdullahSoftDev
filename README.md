@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">Aspiring Software Developer | Computer Science Student</h3>
 
-<video align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RmcjFhNTg0aGVwbHdrMHJ3d2JwemFxNXdoaXczcmR1MnhmbXZ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5eSs2vjnAxUm05G4Cf/giphy.gif">
+<image align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RmcjFhNTg0aGVwbHdrMHJ3d2JwemFxNXdoaXczcmR1MnhmbXZ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5eSs2vjnAxUm05G4Cf/giphy.gif">
 
 
 - 🌱 I’m currently learning **Data Science**
