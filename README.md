@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahsoftdev&show_icons=true&locale=en" alt="abdullahsoftdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsoftdev&" alt="abdullahsoftdev" /></p>
+![](https://nirzak-streak-stats.vercel.app/?user=abdullahsoftdev&theme=light&hide_border=false)<br/>
+
