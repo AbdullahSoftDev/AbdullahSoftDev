@@ -534,27 +534,27 @@ Writing scalable, maintainable software.
 # 🌐 Connect With Me
 
 <a href="https://github.com/AbdullahSoftDev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:m.abdullah.cs23@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=CCFF00" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abdullahsoftdev/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-CCFF00?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=0D1117"/>
+<a href="https://instagram.com/abdx.anx">
+  <img src="https://img.shields.io/badge/Instagram-CCFF00?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=CCFF00" alt="Instagram"/>
 </a>
 
-<a href="https://x.com/YOUR_X">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+  <img src="https://img.shields.io/badge/HackerRank-181717?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=181717" alt="HackerRank"/>
 </a>
 
 <a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-CCFF00?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=CCFF00" alt="YouTube"/>
 </a>
 
 </div>
