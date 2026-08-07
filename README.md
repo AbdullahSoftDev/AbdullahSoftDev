@@ -469,12 +469,6 @@ Writing scalable, maintainable software.
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=23,24,25,26,27"/>
-
-
-</div>
 
 <!-- ========================================================= -->
 <!--               GITHUB PROFILE README - PART 3               -->
