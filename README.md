@@ -293,7 +293,7 @@ An AI-powered voice assistant focused on delivering an intelligent conversationa
 **Repository**
 
 <a href="https://github.com/AbdullahSoftDev/zoe-ai-voice">
-<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117">
 </a>
 </td>
 
@@ -313,7 +313,7 @@ Backend infrastructure powering the Zoe ecosystem with scalable APIs and efficie
 **Repository**
 
 <a href="https://github.com/AbdullahSoftDev/Zoe-Backend">
-<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117">
 </a>
 
 </td>
@@ -338,7 +338,7 @@ The primary project bringing together AI capabilities and modern full-stack deve
 **Repository**
 
 <a href="https://github.com/AbdullahSoftDev/Zoe-Project">
-<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117">
 </a>
 
 </td>
@@ -359,7 +359,7 @@ A collaborative platform designed to improve communication and interaction betwe
 **Repository**
 
 <a href="https://github.com/AbdullahSoftDev/student-interaction-portal">
-<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117">
 </a>
 
 </td>
@@ -384,7 +384,7 @@ An AI-based project exploring image recognition and computer vision concepts.
 **Repository**
 
 <a href="https://github.com/AbdullahSoftDev/Image-Detection">
-<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117">
 </a>
 
 </td>
@@ -405,7 +405,7 @@ A modern learning platform integrating intelligent technologies to enhance educa
 **Repository**
 
 <a href="https://github.com/AbdullahSoftDev/TWS-V7">
-<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117">
 </a>
 
 </td>
