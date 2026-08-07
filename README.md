@@ -709,35 +709,6 @@ jobs:
 
 ---
 
-<div align="center">
-
-# 📚 Learning Roadmap
-
-```text
-✅ C++
-⬇
-✅ Object-Oriented Programming
-⬇
-✅ HTML • CSS • JavaScript
-⬇
-✅ React
-⬇
-✅ Next.js
-⬇
-✅ Node.js
-⬇
-🟡 TypeScript
-⬇
-🟡 Artificial Intelligence
-⬇
-🟡 Cloud Computing
-⬇
-🎯 Software Architecture
-```
-
-</div>
-
----
 
 <div align="center">
 
