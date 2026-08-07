@@ -512,10 +512,6 @@ Writing scalable, maintainable software.
 
 # 🐍 Contribution Snake
 
-> **The snake animation requires a GitHub Action.**
->
-> After adding the workflow below and enabling GitHub Actions, this animation will appear automatically.
-
 <img src="https://raw.githubusercontent.com/AbdullahSoftDev/AbdullahSoftDev/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
@@ -625,51 +621,6 @@ If you enjoy my projects, consider:
 </div>
 
 ---
-
-# 🐍 Snake Workflow
-
-Create the file:
-
-```text
-.github/workflows/snake.yml
-```
-
-Paste this:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AbdullahSoftDev
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<!-- ========================================================= -->
-<!--                       END OF README                        -->
-<!-- ========================================================= -->
 
 <!-- ========================================================= -->
 <!--             GITHUB PROFILE README - PART 4                -->
