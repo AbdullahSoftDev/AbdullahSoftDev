@@ -13,14 +13,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:39FF14,100:CCFF00" />
 </picture>
 
-# 👋 Hey there, I'm **Muhammad Abdullah**
+# Hey there, I'm **Muhammad Abdullah**
 
   
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1200&color=CCFF00&center=true&vCenter=true&repeat=true&width=900&lines=AI+Enthusiast;Building+AI-Powered+Applications;Transforming+Ideas+into+Software;Problem+Solver;Building+the+Future;Open+Source+Enthusiast" />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/AbdullahSoftDev?style=for-the-badge&logo=github&label=Followers&color=CCFF00&labelColor=1A1B27"/>
+<img src="https://img.shields.io/github/followers/AbdullahSoftDev?style=for-the-badge&logo=github&label=Followers&color=CCFF00"/>
 
 <img src="https://komarev.com/ghpvc/?username=AbdullahSoftDev&style=for-the-badge&color=CCFF00&labelColor=1A1B27"/>
 
