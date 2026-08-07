@@ -169,20 +169,6 @@ Writing clean, maintainable, and efficient code.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=23,24,25,26,27"/>
 
-### ⬇️ Next Section
-
-**Part 2 will include:**
-
-⭐ Tech Stack (Modern Icons)
-
-🚀 Featured Projects
-
-📂 Project Showcase
-
-🛠 Development Tools
-
-📚 Current Learning Roadmap
-
 </div>
 
 <!-- ========================================================= -->
