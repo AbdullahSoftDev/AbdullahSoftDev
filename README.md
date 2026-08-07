@@ -587,34 +587,6 @@ If you enjoy my projects, consider:
 
 ---
 
-<div align="center">
-
-# 🚀 Development Philosophy
-
-</div>
-
-```text
-          💡 Idea
-             │
-             ▼
-        📋 Planning
-             │
-             ▼
-      🎨 UI / UX Design
-             │
-             ▼
-       💻 Development
-             │
-             ▼
-         🧪 Testing
-             │
-             ▼
-       🚀 Deployment
-             │
-             ▼
-    🔄 Continuous Improvement
-```
-
 ---
 
 <div align="center">
