@@ -9,26 +9,19 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: AbdullahSoftDev
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=CCFF00&color_dots=39FF14,CCFF00,DFFF00,FAFAD2&color_dot_0=39FF14&color_dot_1=CCFF00&color_dot_2=DFFF00&color_dot_3=FAFAD2&color_dot_4=FAFAD2
-            dist/github-contribution-grid-snake-dark.svg?color_snake=CCFF00&color_dots=39FF14,CCFF00,DFFF00,FAFAD2&color_dot_0=39FF14&color_dot_1=CCFF00&color_dot_2=DFFF00&color_dot_3=FAFAD2&color_dot_4=FAFAD2
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23CCFF00&color_dots=%230D1117,%2339FF14,%23CCFF00,%23DFFF00,%23FAFAD2
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
