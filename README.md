@@ -581,8 +581,6 @@ If you enjoy my projects, consider:
 
 ---
 
----
-
 <div align="center">
 
 # 📚 Current Focus
