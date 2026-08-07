@@ -7,26 +7,26 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FF69B4,40:EF93C4,75:F8BBD0,100:FFD6E8&text=&animation=fadeIn" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:CCFF00,40:39FF14,75:DFFF00,100:FAFAD2&text=&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FCE4EC,35:F8BBD0,70:EF93C4,100:FF69B4&text=&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:EF93C4,100:FF69B4" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FAFAD2,35:DFFF00,70:39FF14,100:CCFF00&text=&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:39FF14,100:CCFF00" />
 </picture>
 
 # 👋 Hey there, I'm **Muhammad Abdullah**
 
   
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1200&color=EF93C4&center=true&vCenter=true&repeat=true&width=900&lines=AI+Enthusiast;Building+AI-Powered+Applications;Transforming+Ideas+into+Software;Problem+Solver;Building+the+Future;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1200&color=CCFF00&center=true&vCenter=true&repeat=true&width=900&lines=AI+Enthusiast;Building+AI-Powered+Applications;Transforming+Ideas+into+Software;Problem+Solver;Building+the+Future;Open+Source+Enthusiast" />
 
 <br>
 
-<img src="https://img.shields.io/github/followers/AbdullahSoftDev?style=for-the-badge&logo=github&label=Followers&color=EF93C4&labelColor=1A1B27"/>
+<img src="https://img.shields.io/github/followers/AbdullahSoftDev?style=for-the-badge&logo=github&label=Followers&color=CCFF00&labelColor=1A1B27"/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdullahSoftDev&style=for-the-badge&color=FF69B4"/>
+<img src="https://komarev.com/ghpvc/?username=AbdullahSoftDev&style=for-the-badge&color=CCFF00&labelColor=1A1B27"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Lover-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Lover-CCFF00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Location-Gujranwala,%20Pakistan-EF93C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Gujranwala,%20Pakistan-CCFF00?style=for-the-badge"/>
 
 </div>
 
@@ -79,15 +79,15 @@ I enjoy transforming ideas into modern software by combining elegant user interf
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20Development-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-AI%20Development-CCFF00?style=for-the-badge&labelColor=0D1117"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Loves-Full%20Stack-EF93C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-Full%20Stack-CCFF00?style=for-the-badge&labelColor=0D1117"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-F8BBD0?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"/>
 
 </td>
 
@@ -293,7 +293,7 @@ An AI-powered voice assistant focused on delivering an intelligent conversationa
 **Repository**
 
 <a href="https://github.com/AbdullahSoftDev/zoe-ai-voice">
-<img src="https://img.shields.io/badge/View%20Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
 </a>
 </td>
 
@@ -312,7 +312,9 @@ Backend infrastructure powering the Zoe ecosystem with scalable APIs and efficie
 
 **Repository**
 
-🔗 https://github.com/AbdullahSoftDev/Zoe-Backend
+<a href="https://github.com/AbdullahSoftDev/Zoe-Backend">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+</a>
 
 </td>
 
@@ -335,7 +337,9 @@ The primary project bringing together AI capabilities and modern full-stack deve
 
 **Repository**
 
-🔗 https://github.com/AbdullahSoftDev/Zoe-Project
+<a href="https://github.com/AbdullahSoftDev/Zoe-Project">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+</a>
 
 </td>
 
@@ -354,7 +358,9 @@ A collaborative platform designed to improve communication and interaction betwe
 
 **Repository**
 
-🔗 https://github.com/AbdullahSoftDev/student-interaction-portal
+<a href="https://github.com/AbdullahSoftDev/student-interaction-portal">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+</a>
 
 </td>
 
@@ -377,7 +383,9 @@ An AI-based project exploring image recognition and computer vision concepts.
 
 **Repository**
 
-🔗 https://github.com/AbdullahSoftDev/Image-Detection
+<a href="https://github.com/AbdullahSoftDev/Image-Detection">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+</a>
 
 </td>
 
@@ -396,7 +404,9 @@ A modern learning platform integrating intelligent technologies to enhance educa
 
 **Repository**
 
-🔗 https://github.com/AbdullahSoftDev/TWS-V7
+<a href="https://github.com/AbdullahSoftDev/TWS-V7">
+<img src="https://img.shields.io/badge/View%20Repository-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117">
+</a>
 
 </td>
 
@@ -479,7 +489,7 @@ Writing scalable, maintainable software.
 
 # 📈 GitHub Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahSoftDev&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahSoftDev&bg_color=0D1117&color=CCFF00&line=39FF14&point=CCFF00&area=true&area_color=39FF14&hide_border=true"/>
 
 </div>
 
@@ -489,10 +499,9 @@ Writing scalable, maintainable software.
 
 # 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=AbdullahSoftDev&theme=tokyonight&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=AbdullahSoftDev&hide_border=true&background=0D1117&ring=39FF14&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=CCFF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </div>
-
 
 ---
 
@@ -512,7 +521,9 @@ Writing scalable, maintainable software.
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/AbdullahSoftDev/AbdullahSoftDev/output/github-contribution-grid-snake-dark.svg" />
+<p align="center">
+  <img src="https://github.com/AbdullahSoftDev/AbdullahSoftDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
 </div>
 
@@ -527,15 +538,15 @@ Writing scalable, maintainable software.
 </a>
 
 <a href="mailto:m.abdullah.cs23@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/>
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abdullahsoftdev/)">
+<a href="https://www.linkedin.com/in/abdullahsoftdev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-CCFF00?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="https://x.com/YOUR_X">
@@ -604,7 +615,7 @@ If you enjoy my projects, consider:
 
 ## 👀 Visitors
 
-<img src="https://komarev.com/ghpvc/?username=AbdullahSoftDev&style=for-the-badge&color=FF69B4"/>
+<img src="https://komarev.com/ghpvc/?username=AbdullahSoftDev&style=for-the-badge&color=CCFF00&labelColor=0D1117"/>
 
 </div>
 
@@ -616,7 +627,7 @@ If you enjoy my projects, consider:
 
 *"Code with passion. Learn with curiosity. Build with purpose."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:FF69B4,35:EF93C4,70:F8BBD0,100:FFD6E8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:CCFF00,35:39FF14,70:DFFF00,100:FAFAD2"/>
 
 </div>
 
@@ -631,13 +642,13 @@ If you enjoy my projects, consider:
 
 # 🎖 Achievements
 
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-CCFF00?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-EF93C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-CCFF00?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/AI-Learner-F8BBD0?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI-Learner-CCFF00?style=for-the-badge&logo=openai&logoColor=0D1117&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Always-Learning-FFC1E3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Learning-CCFF00?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -686,7 +697,7 @@ If you enjoy my projects, consider:
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-CCFF00?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="#">
@@ -698,7 +709,7 @@ If you enjoy my projects, consider:
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-CCFF00?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/>
 </a>
 
 </div>
@@ -730,11 +741,11 @@ Give a ⭐ to any repository you find useful and consider following my GitHub jo
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:FF69B4,35:EF93C4,70:F8BBD0,100:FFD6E8" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:CCFF00,35:39FF14,70:DFFF00,100:FAFAD2" />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:FCE4EC,35:F8BBD0,70:EF93C4,100:FF69B4" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:EF93C4,100:FF69B4" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:FAFAD2,35:DFFF00,70:39FF14,100:CCFF00" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:39FF14,100:CCFF00" />
 </picture>
 
 </div>
