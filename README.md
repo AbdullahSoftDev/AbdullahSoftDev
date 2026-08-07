@@ -79,15 +79,15 @@ I enjoy transforming ideas into modern software by combining elegant user interf
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20Development-CCFF00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Focus-AI%20Development-CCFF00?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Loves-Full%20Stack-CCFF00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Loves-Full%20Stack-CCFF00?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Collaboration-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117"/>
 
 </td>
 
