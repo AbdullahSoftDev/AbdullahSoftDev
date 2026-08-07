@@ -493,15 +493,6 @@ Writing scalable, maintainable software.
 
 </div>
 
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdullahSoftDev&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
 
 ---
 
