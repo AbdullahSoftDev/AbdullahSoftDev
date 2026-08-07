@@ -15,7 +15,8 @@
 
 # 👋 Hey there, I'm **Muhammad Abdullah**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1200&color=EF93C4&center=true&vCenter=true&repeat=true&width=900&lines=Computer+Science+Student;Aspiring+Software+Developer;Full+Stack+Developer;TypeScript+•+React+•+Next.js;Building+AI-Powered+Applications;Always+Learning+Something+New" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1200&color=EF93C4&center=true&vCenter=true&repeat=true&width=900&lines=AI+Enthusiast;Building+AI-Powered+Applications;Transforming+Ideas+into+Software;Problem+Solver;Building+the+Future;Open+Source+Enthusiast" />
 
 <br>
 
@@ -487,19 +488,6 @@ Writing scalable, maintainable software.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=23,24,25,26,27"/>
 
-### ⬇️ Next Section
-
-**Part 3 includes**
-
-📈 GitHub Activity
-
-🔥 Streak Stats
-
-🐍 Contribution Snake
-
-🌐 Connect With Me
-
-🌊 Premium Footer
 
 </div>
 
@@ -572,11 +560,11 @@ Writing scalable, maintainable software.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:m.abdullah.cs23@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abdullahsoftdev/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
