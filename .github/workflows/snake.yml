@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: AbdullahSoftDev
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=CCFF00&color_dots=39FF14,CCFF00,DFFF00,FAFAD2
-            dist/github-contribution-grid-snake-dark.svg?color_snake=CCFF00&color_dots=39FF14,CCFF00,DFFF00,FAFAD2
+            dist/github-contribution-grid-snake.svg?color_snake=CCFF00&color_dots=39FF14,CCFF00,DFFF00,FAFAD2&color_dot_0=39FF14&color_dot_1=CCFF00&color_dot_2=DFFF00&color_dot_3=FAFAD2&color_dot_4=FAFAD2
+            dist/github-contribution-grid-snake-dark.svg?color_snake=CCFF00&color_dots=39FF14,CCFF00,DFFF00,FAFAD2&color_dot_0=39FF14&color_dot_1=CCFF00&color_dot_2=DFFF00&color_dot_3=FAFAD2&color_dot_4=FAFAD2
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
