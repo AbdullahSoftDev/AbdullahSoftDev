@@ -2,6 +2,12 @@
 <!--                GITHUB PROFILE README - PART 1              -->
 <!--                     HERO + ABOUT ME                        -->
 <!-- ========================================================= -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahSoftDev/Pictures/main/git%20banner.png">
+    <img src="https://raw.githubusercontent.com/AbdullahSoftDev/Pictures/c641dc7a125ed4ed595d786c40b5ebd974f55dc2/git%20banner.png" alt="AbdullahSoftDev Banner" width="100%">
+  </picture>
+</p>
 
 <div align="center">
 
