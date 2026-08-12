@@ -7,10 +7,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:CCFF00,40:39FF14,75:DFFF00,100:FAFAD2&text=&animation=fadeIn" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=CCFF00&text=&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FAFAD2,35:DFFF00,70:39FF14,100:CCFF00&text=&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:39FF14,100:CCFF00" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=CCFF00&text=&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=CCFF00" />
 </picture>
 
 # Hey there, I'm **Muhammad Abdullah**
