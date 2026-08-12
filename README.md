@@ -555,6 +555,15 @@ Writing scalable, maintainable software.
 
 <div align="center">
 
+# ⚙ Development Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,bash,npm,postman&perline=8"/>
+
+</div>
+
+---
+<div align="center">
+
 # 🌐 Connect With Me
 
 <a href="https://github.com/AbdullahSoftDev">
@@ -645,15 +654,6 @@ If you enjoy my projects, consider:
 
 ---
 
-<div align="center">
-
-## 💖 Thank You For Visiting!
-
-*"Code with passion. Learn with curiosity. Build with purpose."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:CCFF00,35:39FF14,70:DFFF00,100:FAFAD2"/>
-
-</div>
 
 ---
 
@@ -693,18 +693,7 @@ If you enjoy my projects, consider:
 
 </div>
 
----
 
-
-<div align="center">
-
-# ⚙ Development Environment
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,bash,npm,postman&perline=8"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -759,18 +748,23 @@ Give a ⭐ to any repository you find useful and consider following my GitHub jo
 </div>
 
 ---
-
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:CCFF00,35:39FF14,70:DFFF00,100:FAFAD2" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:FAFAD2,35:DFFF00,70:39FF14,100:CCFF00" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:39FF14,100:CCFF00" />
-</picture>
+  <div style="background: #0D1117; padding: 30px 20px; border-radius: 15px; margin-bottom: -5px; border: 2px solid #CCFF00;">
+    <h2 style="color: #CCFF00; margin: 0;">💖 Thank You For Visiting!</h2>
+    <p style="color: #FFFFFF; font-size: 18px; margin: 10px 0 0 0;">
+      <i>"Code with passion. Learn with curiosity. Build with purpose."</i>
+    </p>
+    <br>
+    <img src="https://img.shields.io/badge/Keep%20Coding-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Stay%20Curious-39FF14?style=for-the-badge&logo=openai&logoColor=0D1117"/>
+  </div>
+
+ <picture>
+    <source
+      srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=CCFF00" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=CCFF00" />
+  </picture>
 
 </div>
 
