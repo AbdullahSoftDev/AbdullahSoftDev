@@ -2,22 +2,40 @@
 <!--                GITHUB PROFILE README - PART 1              -->
 <!--                     HERO + ABOUT ME                        -->
 <!-- ========================================================= -->
-<p align="center">
+<div align="center" style="position: relative; width: 100%; padding: 0; margin: 0;">
+
+  <!-- Top Waves (face DOWN - pointing toward banner) -->
+  <div style="position: relative; margin-bottom: -5px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://capsule-render.vercel.app/api?type=waving&height=80&color=CCFF00&text=&animation=fadeIn&section=footer" />
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://capsule-render.vercel.app/api?type=waving&height=80&color=CCFF00&text=&animation=fadeIn&section=footer" />
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=CCFF00&section=footer" style="display: block;" />
+    </picture>
+  </div>
+
+  <!-- Banner (completely untouched) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahSoftDev/Pictures/main/git%20banner.png">
-    <img src="https://raw.githubusercontent.com/AbdullahSoftDev/Pictures/c641dc7a125ed4ed595d786c40b5ebd974f55dc2/git%20banner.png" alt="AbdullahSoftDev Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/AbdullahSoftDev/Pictures/c641dc7a125ed4ed595d786c40b5ebd974f55dc2/git%20banner.png" alt="AbdullahSoftDev Banner" width="100%" style="display: block;">
   </picture>
-</p>
+
+  <!-- Bottom Waves (face UP - pointing toward banner) -->
+  <div style="position: relative; margin-top: -5px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://capsule-render.vercel.app/api?type=waving&height=80&color=CCFF00&text=&animation=fadeIn&section=header" />
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://capsule-render.vercel.app/api?type=waving&height=80&color=CCFF00&text=&animation=fadeIn&section=header" />
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=CCFF00&section=header" style="display: block;" />
+    </picture>
+  </div>
+
+</div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=CCFF00&text=&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=320&color=CCFF00&text=&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=CCFF00" />
-</picture>
 
 # Hey there, I'm **Muhammad Abdullah**
 
