@@ -3,6 +3,7 @@
 <!--                     HERO + ABOUT ME                        -->
 <!--                     HERO + ABOUT ME                        -->
 <!--                     HERO + ABOUT ME                        -->
+<!--                     HERO + ABOUT ME                        -->
 <!-- ========================================================= -->
 <div align="center" style="position: relative; width: 100%; padding: 0; margin: 0;">
 
