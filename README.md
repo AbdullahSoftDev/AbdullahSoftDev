@@ -535,7 +535,7 @@ Writing scalable, maintainable software.
 
 | Public Repositories | Followers | Following |
 |:-------------------:|:---------:|:---------:|
-| **28** | **3** | **1** |
+| **38** | **3** | **0** |
 
 </div>
 
